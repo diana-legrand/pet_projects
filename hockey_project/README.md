@@ -13,11 +13,11 @@
 
 ## Используемые библиотеки:
 - *pandas*
-- *networkx *
+- *networkx*
 - *matplotlib*
 - *seaborn*
 - *plotly*
 - *scipy*
-- *pingouin *
+- *pingouin*
 
-## Статус: Проект завершён.
+## Статус: Проект продолжается.
