@@ -12,7 +12,7 @@
 
 ![Иллюстрация к проекту](https://github.com/diana-legrand/pet_projects/blob/main/hockey_project/hockey_dashboard_project_page-0001.jpg)
 
-![Image alt](https://github.com/{diana-legrand}/{pet_projects}/raw/{hockey_project}/hockey_dashboard_project_page-0001.jpg)
+
 
 
 
