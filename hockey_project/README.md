@@ -1,7 +1,6 @@
 # Хоккей: связи межу игроками в лиге КХЛ. Расчет числа Лемтюгова
 
-Так как github не отображает визуализацию в plotly, рекомендуется смотреть проект через nbviewer по [ссылке]
-(https://nbviewer.org/github/diana-legrand/pet_projects/blob/main/hockey_project/Diana_Legrand_Ho%D1%81key_Project.ipynb)
+Так как github не отображает визуализацию в plotly, рекомендуется смотреть проект через nbviewer по [ссылке](https://nbviewer.org/github/diana-legrand/pet_projects/blob/main/hockey_project/Diana_Legrand_Ho%D1%81key_Project.ipynb)
 
 ## Цель
 
