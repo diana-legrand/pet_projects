@@ -44,3 +44,13 @@ The concept builds on **social network theory** and quantifies **relational prox
 - `plotly` – interactive network visualization  
 - `matplotlib`, `seaborn` – supplementary plots  
 - `scipy`, `pingouin` – statistical testing
+
+## 📁 Project Files
+
+📂 hockey_project/
+├── network_analysis_hockey_players.ipynb    ← ✅ Main notebook
+├── players_data.csv                         ← 📊 Cleaned dataset of player records
+├── network_graph.png                         ← 🌐 Static image of network graph
+├── hockey_dashboard_project_page-0001.jpg    ← 📸 Dashboard preview
+└── README.md                                 ← 📄 This file
+
