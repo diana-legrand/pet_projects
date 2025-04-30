@@ -5,6 +5,11 @@
 
 ---
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diana-legrand/pet_projects/blob/main/hockey_project/network_analysis_hockey_players.ipynb)
+
+> ⚠️ **Note:** GitHub does **not render interactive Plotly graphs**.  
+> 📎 **To view the full interactive notebook with all visualizations**, use **[Google Colab](https://colab.research.google.com/github/diana-legrand/pet_projects/blob/main/hockey_project/network_analysis_hockey_players.ipynb)**.
+
 ## 🔍 Overview
 
 This project explores player connectivity in the Kontinental Hockey League (KHL) by introducing the Lemtyugov Number — a custom proximity metric inspired by the **Erdős and Bacon numbers**. It quantifies how closely a given player is connected to Nikolay Lemtyugov, based on shared seasons on the same team.
@@ -44,8 +49,6 @@ The concept builds on **social network theory** and quantifies **relational prox
 - `plotly` – interactive network visualization  
 - `matplotlib`, `seaborn` – supplementary plots  
 - `scipy`, `pingouin` – statistical testing
-
-## 📁 Project Files
 
 ---
 
