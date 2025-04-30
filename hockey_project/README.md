@@ -23,7 +23,11 @@ The concept builds on **social network theory** and quantifies **relational prox
 
 ## 🔑 Key Insights
 
-As of 2023, the analysis found that any KHL player is connected to Lemtyugov through no more than **three degrees of separation**.  This highlights the surprisingly dense network within the league, demonstrating that the world of professional hockey is much more interconnected than it might appear.  This type of network-based modeling offers a novel lens for exploring athlete relationships and team dynamics within sports analytics.
+- As of 2023, any KHL player is connected to Nikolay Lemtyugov through no more than **three degrees of separation**.
+- The network becomes denser over time, indicating growing player mobility and tighter interconnections.
+- The distribution of Lemtyugov Numbers provides a quantitative view of centrality and reachability in the league.
+- Players with more team changes tend to have lower Lemtyugov Numbers, meaning they are more central in the network.
+- This network-based approach offers a powerful lens for understanding team strategy, player influence, and league cohesion in sports analytics.
 
 
 ## 🖼️ SExample Visualizations
