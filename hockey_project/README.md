@@ -7,9 +7,9 @@
 
 ## Overview
 
-This project explores player connections in the Kontinental Hockey League (KHL) by introducing the "Lemtyugov Number" - a custom proximity metric inspired by Erdős and Bacon numbers. It measures how closely a given player is connected to Nikolay Lemtyugov based on shared team history.  Using Python and NetworkX, I modeled the player network as a graph, where nodes represent players and edges represent shared seasons on the same team. This approach enabled visualization of league-wide player connections, highlighting clusters, central players, and degrees of separation.
+This project explores player connections in the Kontinental Hockey League (KHL) by introducing the "Lemtyugov Number" - a custom proximity metric inspired by **Erdős and Bacon numbers**. It measures how closely a given player is connected to Nikolay Lemtyugov based on shared team history.  Using Python and NetworkX, I modeled the player network as a graph, where nodes represent players and edges represent shared seasons on the same team. This approach enabled visualization of league-wide player connections, highlighting clusters, central players, and degrees of separation.
 
-The concept builds on social network theory and quantifies relational proximity within the league. This project offers insight into the underlying structure of professional hockey networks, revealing how players are interconnected across teams and seasons.
+The concept builds on **social network theory** and quantifies **relational proximity within the league**. This project offers insight into the underlying structure of professional hockey networks, revealing how players are interconnected across teams and seasons.
 
 
 ## Objectives
