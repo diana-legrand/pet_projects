@@ -37,7 +37,7 @@ The concept builds on **social network theory** and quantifies **relational prox
 ![Screenshot or GIF of network graph](https://github.com/diana-legrand/pet_projects/blob/main/hockey_project/network_graph.png)
 
 
-##🛠️ Tools & Libraries
+## 🛠️ Tools & Libraries
 
 - `pandas` – data preprocessing  
 - `networkx` – graph construction and analysis  
