@@ -68,17 +68,3 @@ The concept builds on **social network theory** and quantifies **relational prox
 ```
 
 
----
-
-## 🛠️ Tools & Libraries
-
-| Tool         | Purpose                                 |
-|--------------|------------------------------------------|
-| `pandas`     | Data cleaning & transformation           |
-| `networkx`   | Graph construction & shortest path logic |
-| `plotly`     | Interactive graph visualizations         |
-| `seaborn`    | Density plots and statistical charts     |
-| `scipy`, `pingouin` | Hypothesis testing & ANOVA        |
-
----
-
