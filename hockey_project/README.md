@@ -14,11 +14,11 @@ The concept builds on **social network theory** and quantifies **relational prox
 
 ## 🎯 Objectives
 
-📥 Collect and clean historical KHL player and team data
-🧩 Build a graph-based network of players linked by shared team history
-🔢 Define and compute the Lemtyugov Number for each player
-📊 Visualize the player network using interactive and static graphs
-🧪 Test hypotheses about network dynamics, player mobility, and league structure  
+- 📥 Collect and clean historical KHL player and team data
+- 🧩 Build a graph-based network of players linked by shared team history
+- 🔢 Define and compute the Lemtyugov Number for each player
+- 📊 Visualize the player network using interactive and static graphs
+- 🧪 Test hypotheses about network dynamics, player mobility, and league structure  
 ---
 
 ## 🔑 Key Insights
