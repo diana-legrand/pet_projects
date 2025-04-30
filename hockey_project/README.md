@@ -26,9 +26,7 @@ As of 2023, the analysis found that any KHL player is connected to Lemtyugov thr
 
 
 
-## Sample Visual
-
-> *(Screenshot of network graph)*
+## Screenshot of network graph
 
 ![Screenshot or GIF of network graph](https://github.com/diana-legrand/pet_projects/blob/main/hockey_project/network_graph.png)
 
