@@ -1,7 +1,7 @@
 # Network Analysis of KHL Hockey Players: Mapping Player Connectivity
 
 
-> ⚠️ **Note:** Due to GitHub’s file size limitations (`"Sorry, this file is too big to display"`), the full interactive notebook is best viewed via [Nbviewer(https://nbviewer.org/github/diana-legrand/pet_projects/blob/main/hockey_project/network_analysis_hockey.ipynb) 
+> ⚠️ **Note:** Due to GitHub’s file size limitations (`"Sorry, this file is too big to display"`), the full interactive notebook is best viewed via [Nbviewer](https://nbviewer.org/github/diana-legrand/pet_projects/blob/main/hockey_project/network_analysis_hockey.ipynb) 
 
 ---
 
