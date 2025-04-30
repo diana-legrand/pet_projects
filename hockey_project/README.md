@@ -60,6 +60,7 @@ The concept builds on **social network theory** and quantifies **relational prox
 ```
 📂 hockey_project/
 ├── network_analysis_hockey_players.ipynb    ← ✅ Main notebook
+├── Diana_Legrand_Hockey_Project.ipynb          ← 🕘 Archived version (Created using Colaboratory)
 ├── players_data.csv                         ← 📊 Cleaned dataset of player records
 ├── network_graph.png                         ← 🌐 Static image of network graph
 ├── hockey_dashboard_project_page-0001.jpg    ← 📸 Dashboard preview
