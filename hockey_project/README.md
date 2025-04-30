@@ -1,8 +1,7 @@
 # 🏒 Network Analysis of KHL Hockey Players: Mapping Player Connectivity
 
 
-> ⚠️📎  **Note:** GitHub does not render interactive Plotly graphs, so the full interactive notebook is best viewed via [Google Colab]
-(https://colab.research.google.com/drive/1vEyEzPKXookbTDMtaztF4XVjmXQgRVho?usp=sharing)
+> ⚠️📎  **Note:** GitHub does not render interactive Plotly graphs, so the full interactive notebook is best viewed via [Google Colab](https://colab.research.google.com/drive/1vEyEzPKXookbTDMtaztF4XVjmXQgRVho?usp=sharing)
 
 ---
 
