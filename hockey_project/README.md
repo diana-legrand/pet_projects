@@ -7,9 +7,11 @@
 
 ## 🔍 Overview
 
-This project explores player connections in the Kontinental Hockey League (KHL) by introducing the "Lemtyugov Number" - a custom proximity metric inspired by **Erdős and Bacon numbers**. It measures how closely a given player is connected to Nikolay Lemtyugov based on shared team history. The Lemtyugov Number is hockey’s version of the “six degrees of separation” concept, grounded in **graph theory**. It’s based on the idea that any two players in the KHL can be connected through a chain of teammates — with the number representing how many steps it takes to link them to Lemtyugov. This number captures the relational proximity between players and reveals how team composition and career movement shape the league's network.  Using **Python and NetworkX**, I modeled the player network as a graph, where nodes represent players and edges represent shared seasons on the same team. This approach enabled visualization of league-wide player connections, highlighting clusters, central players, and degrees of separation.
+This project explores player connectivity in the Kontinental Hockey League (KHL) by introducing the Lemtyugov Number — a custom proximity metric inspired by the **Erdős and Bacon numbers**. It quantifies how closely a given player is connected to Nikolay Lemtyugov, based on shared seasons on the same team.
 
-The concept builds on **social network theory** and quantifies **relational proximity within the league**. This project offers insight into the underlying structure of professional hockey networks, revealing how players are interconnected across teams and seasons.
+Think of it as hockey’s version of six degrees of separation modeled using **graph theory**. The network is built by treating each player as a node, and drawing edges between players who were teammates in overlapping time periods. The Lemtyugov Number is then computed using shortest-path algorithms to reveal how many "handshakes" connect any player to Lemtyugov.
+
+The concept builds on **social network theory** and quantifies **relational proximity within the league**. This model sheds light on how career paths, team composition, and transfers shape connectivity across the league. It's a novel application of social network theory to professional hockey.
 
 
 ## 🎯 Objectives
@@ -30,7 +32,7 @@ The concept builds on **social network theory** and quantifies **relational prox
 - This network-based approach offers a powerful lens for understanding team strategy, player influence, and league cohesion in sports analytics.
 
 
-## 🖼️ SExample Visualizations
+## 🖼️ Sample Visualizations
 
 ![Screenshot or GIF of network graph](https://github.com/diana-legrand/pet_projects/blob/main/hockey_project/network_graph.png)
 
