@@ -1,5 +1,10 @@
 # 📘 Structural Equation Modeling Approach to Interrelation Between Organizational Culture and Employee Behavior
 
+🔗 **View the full interactive analysis on nbviewer:**  
+👉 [Open in nbviewer](https://nbviewer.org/github/diana-legrand/pet_projects/blob/main/sem_project/sem_project.ipynb)
+
+---
+
 ## 📝 Project Description
 
 This project explores how different types of **perceived organizational culture** affect **employee engagement**, both directly and through **psychological mediators** such as attachment styles and the need for belonging.
