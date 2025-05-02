@@ -1,5 +1,4 @@
-# 📘 Interrelation Between Organizational Culture and Employee Behavior  
-### A Structural Equation Modeling Approach
+# 📘 Interrelation Between Organizational Culture and Employee Behavior: A Structural Equation Modeling Approach  
 
 ## 📝 Project Description
 
