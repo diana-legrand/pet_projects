@@ -1,4 +1,4 @@
-# 📘 Structural Equation Modeling Approach to Organizational Culture and Employee Behavior
+# 📘 Structural Equation Modeling Approach to Interrelation Between Organizational Culture and Employee Behavior
 
 ## 📝 Project Description
 
