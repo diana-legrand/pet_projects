@@ -2,6 +2,9 @@
 
 This repository documents a research project investigating the **determinants of startup success**, with a particular focus on contrasting **blockchain startups** and **traditional technology firms**. Special attention is given to modeling **interaction effects**, revealing how the influence of key predictors varies by technological context.
 
+[📘 View the Jupyter Notebook – blockchain_vs_traditional_valuation.ipynb](https://github.com/diana-legrand/pet_projects/blob/main/blockchain_vs_traditional/blockchain_vs_traditional_valuation.ipynb)
+
+
 ---
 
 ## 🎯 Research Objectives
