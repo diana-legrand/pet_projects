@@ -34,19 +34,6 @@ The research relies on a robust econometric and machine learning framework, with
 
 ---
 
-## 📦 Repository Structure
-
-| Folder                | Contents                                                               |
-|------------------------|------------------------------------------------------------------------|
-| `data/`               | Cleaned dataset (1,000 startups across blockchain and traditional tech) |
-| `notebooks/`          | Modeling code, regression diagnostics, and EDA                         |
-| `models/`             | Trained model objects (logit, random forest)                          |
-| `visuals/`            | Graphs: interaction plots, violin distributions, decision trees        |
-| `reports/`            | Regression output, statistical interpretations, LaTeX-ready figures    |
-| `README.md`           | Overview of research aims, methodology, and findings                  |
-
----
-
 ## 📊 Key Variables
 
 | Variable               | Description                                                   |
